@@ -14,6 +14,15 @@ class App extends Component {
 	}
 }
 
+class CatComponent extends Component {
+	render() {
+		return(
+			<div className="CatComponent">
+			</div>
+		);
+	}
+}
+
 class GraceHopperQuoteComponent extends Component {
 	render(){
 		return(
